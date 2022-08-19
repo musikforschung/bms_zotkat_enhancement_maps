@@ -1,70 +1,70 @@
-ARSC journal=eng # ARSC journal
-Basler Jahrbuch für historische Musikpraxis : eine Publikation der Schola Cantorum Basiliensis, Hochschule für Alte Musik an der Musik-Akademie der Stadt Basel, Fachhochschule Nordwestschweiz (FHNW)=manuell # Basler Jahrbuch für historische Musikpraxis
-Engaging Students=eng # Engaging Students: Essays in Music Pedagogy
-Journal of the Arnold Schönberg Center=manuell # Journal of the Arnold Schönberg Center
-Liszt-Jahrbuch=ger # Liszt-Jahrbuch
-Music Theory and Analysis (MTA)=eng # Music Theory and Analysis
-Schumann-Journal=manuell # Schumann-Journal
-Journal of the Audio Engineering Society=eng # Journal of the Audio Engineering Society
-Kirchenmusikalisches Jahrbuch=ger # Kirchenmusikalisches Jahrbuch (elektr.)
-Australian Journal of Music Education=eng # The Australian journal of music education (elektr.)
-Australasian Music Research=eng #
-Berichte aus dem Nationalkomitee der Bundesrepublik Deutschland im International Council for Traditional Music=ger # 
-Boccherini studies=manuell # 
-CeReNeM Journal=eng # 
-European string teachers Association Nachrichten=ger # 
-Heidelberger Hochschulschriften zur Musikpädagogik=ger # Heidelberger Hochschulschriften zur Musikpädagogik
-Nota Bene: Canadian Undergraduate Journal of Musicology=eng # Nota bene
-Philomusica on-line=manuell # Philomusica on-line
-Rock & rap confidential=eng # 
-String players library series=eng # 
-The old time herald=eng # 
-Proceedings of the annual meeting National Association of Schools of Music=eng #
-African Music: Journal of the International Library of African Music=eng #
-Acta Acustica united with Acustica=eng # Acta Acustica
-British postgraduate musicology=eng # British postgraduate musicology
-Integral the journal of applied musical thought=eng # Integral
-International journal of musicology=eng # International journal of musicology
-International review of the aesthetics and sociology of music=manuell # International review of the aesthetics and sociology of music
-Journal of jewish music and liturgy=eng # Journal of jewish music and liturgy
-Journal of Sonic Studies=eng # Journal of Sonic Studies
-Mitteilungen der Christoph-Graupner-Gesellschaft=ger # Mitteilungen der Christoph-Graupner-Gesellschaft
-Music research forum=eng # Music research forum
-Musica disciplina=manuell # Musica disciplina
-Musica judaica=eng # Musica judaica
-Musurgia analyse et pratique musicales=fre # Musurgia
-Sacred music=eng # Sacred music
-Ssi-ol Almanach der Internationalen Isang Yun Gesellschaft=ger # Ssi-ol
-The stanza=eng # The stanza
-Theologische Rundschau=ger # Theologische Rundschau
-Theory and practice=eng # Theory and practice
-Tibia=ger # Tibia
-Acta acustica united with Acustica=eng # Acta acustica united with Acustica
-Medical Problems of Performing Artists=eng # Medical Problems of Performing Artists
-Music Theory Online=eng # Music theory online
-Music Theory Spectrum=eng # Music theory spectrum
-Nineteenth-Century Music Review=eng # Nineteenth Century Music Review
-Studia Musicologica Norvegica=manuell # Studia musicologica Norvegica
-American Music Research Center Journal=eng # American Music Research Center Journal
-Context: Journal of Music Research=eng # Context
-Jazz Hot: La Revue Internationale du Jazz=manuell # Jazz hot
-Jazz Podium=ger # Jazz Podium
-Jazz Research News=manuell # Jazz Research News	
-Journal of Popular Music Studies=eng # Journal of popular music studies
-Musiktherapeutische Umschau=ger # Musiktherapeutische Umschau (elektr.)
-Anklaenge: Wiener Jahrbuch für Musikwissenschaft=ger #Anklänge
-«Fonti Musicali Italiane»=ita # Fonti Musicali Italiane
-Journal of Schenkerian studies=eng # Journal of Schenkerian studies
-Journal of seventeenth-century music=eng # Journal of seventeenth century music
-Journal of Sound and Music in Games=eng # Journal of Sound and Music in Games
-Violin Society of America Papers=eng # Journal of the violin society of America
-Performance Practice Review=eng # Performance practice review
-Recercare=manuell # Recercare
-http://revues.mshparisnord.org/filigrane=fre # Filigrane
-International Trumpet Guild journal=eng # International Trumpet Guild journal
-Lute Society of America quarterly=eng # Lute Society of America (gedr.)
-Sonus=eng # Sonus (gedr.)
-Artes. Journal of Musicology=eng # Artes. Journal of Musicology
-Australian Journal of Music Therapy=eng # Australian Journal of Music Therapy
-Philosophy of music education review=eng #Philosophy of music education review (gedr.)
-Musik-Texte=ger #Musik-Texte
+"ARSC journal" : "eng",
+"Basler Jahrbuch für historische Musikpraxis : eine Publikation der Schola Cantorum Basiliensis, Hochschule für Alte Musik an der Musik-Akademie der Stadt Basel, Fachhochschule Nordwestschweiz (FHNW)" : "manuell",
+"Engaging Students" : "eng",
+"Journal of the Arnold Schönberg Center" : "manuell",
+"Liszt-Jahrbuch" : "ger",
+"Music Theory and Analysis (MTA)" : "eng",
+"Schumann-Journal" : "manuell",
+"Journal of the Audio Engineering Society" : "eng",
+"Kirchenmusikalisches Jahrbuch" : "ger",
+"Australian Journal of Music Education" : "eng",
+"Australasian Music Research" : "eng",
+"Berichte aus dem Nationalkomitee der Bundesrepublik Deutschland im International Council for Traditional Music" : "ger",
+"Boccherini studies" : "manuell",
+"CeReNeM Journal" : "eng",
+"European string teachers Association Nachrichten" : "ger",
+"Heidelberger Hochschulschriften zur Musikpädagogik" : "ger",
+"Nota Bene: Canadian Undergraduate Journal of Musicology" : "eng",
+"Philomusica on-line" : "manuell",
+"Rock & rap confidential" : "eng",
+"String players library series" : "eng",
+"The old time herald" : "eng",
+"Proceedings of the annual meeting National Association of Schools of Music" : "eng",
+"African Music: Journal of the International Library of African Music" : "eng",
+"Acta Acustica united with Acustica" : "eng",
+"British postgraduate musicology" : "eng",
+"Integral the journal of applied musical thought" : "eng",
+"International journal of musicology" : "eng",
+"International review of the aesthetics and sociology of music" : "manuell",
+"Journal of jewish music and liturgy" : "eng",
+"Journal of Sonic Studies" : "eng",
+"Mitteilungen der Christoph-Graupner-Gesellschaft" : "ger",
+"Music research forum" : "eng",
+"Musica disciplina" : "manuell",
+"Musica judaica" : "eng",
+"Musurgia analyse et pratique musicales" : "fre",
+"Sacred music" : "eng",
+"Ssi-ol Almanach der Internationalen Isang Yun Gesellschaft" : "ger",
+"The stanza" : "eng",
+"Theologische Rundschau" : "ger",
+"Theory and practice" : "eng",
+"Tibia" : "ger",
+"Acta acustica united with Acustica" : "eng",
+"Medical Problems of Performing Artists" : "eng",
+"Music Theory Online" : "eng",
+"Music Theory Spectrum" : "eng",
+"Nineteenth-Century Music Review" : "eng",
+"Studia Musicologica Norvegica" : "manuell",
+"American Music Research Center Journal" : "eng",
+"Context: Journal of Music Research" : "eng",
+"Jazz Hot: La Revue Internationale du Jazz" : "manuell",
+"Jazz Podium" : "ger",
+"Jazz Research News" : "manuell",
+"Journal of Popular Music Studies" : "eng",
+"Musiktherapeutische Umschau" : "ger",
+"Anklaenge: Wiener Jahrbuch für Musikwissenschaft" : "ger",
+"«Fonti Musicali Italiane»" : "ita",
+"Journal of Schenkerian studies" : "eng",
+"Journal of seventeenth-century music" : "eng",
+"Journal of Sound and Music in Games" : "eng",
+"Violin Society of America Papers" : "eng",
+"Performance Practice Review" : "eng",
+"Recercare" : "manuell",
+"http://revues.mshparisnord.org/filigrane" : "fre",
+"International Trumpet Guild journal" : "eng",
+"Lute Society of America quarterly" : "eng",
+"Sonus" : "eng",
+"Artes. Journal of Musicology" : "eng",
+"Australian Journal of Music Therapy" : "eng",
+"Philosophy of music education review" : "eng",
+"Musik-Texte" : "ger",
