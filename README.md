@@ -30,7 +30,7 @@ CC0 1.0 Universal
 
 Mappings für das zotkat-Verfahren in der Bibliographie des Musikschrifttums BMS online
 
-Die Bibliographie des Musikschrifttums [BMS online](https://www.musikbibliographie.de/) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. Die Dateien enthalten mappings, die für die Erschließung von Aufsätzen mit [zotkat](https://github.com/UB-Mannheim/zotkat) am Staatlichen Institut für Musikforschung für die Bibliographie des Musikschrifttums BMS online genutzt werden.
+Die Bibliographie des Musikschrifttums [BMS online](https://www.musikbibliographie.de/) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. Die Dateien enthalten mappings, für die Erschließung von Aufsätzen mit [zotkat](https://github.com/UB-Mannheim/zotkat) am Staatlichen Institut für Musikforschung für BMS online.
 
 # Autor
 
